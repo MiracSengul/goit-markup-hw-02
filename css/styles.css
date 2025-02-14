@@ -9,7 +9,7 @@ a{
 
 .footer-logo,
 .logo{
-    font-family: "Raleway";
+    font-family: "Raleway",sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -81,7 +81,7 @@ section .hthree-title{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 0.0.2em;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 
 }
@@ -110,7 +110,7 @@ section .hthreetitle-text{
     background-color: #FFFFFF;
 }
 
-.section-three .list-three>.hthree-title{
+.section-three .list-three .hthree-title{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -118,7 +118,7 @@ section .hthreetitle-text{
     color: #2e2f42;
 }
 
-.section-three .list-three>.text{
+.section-three .list-three .text{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
