@@ -53,7 +53,7 @@ header .address{
     background-color: #2e2f42;
 }
 
-.section-one .h-one-title{
+.section-one .hone-title{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -77,7 +77,7 @@ header .address{
     cursor: pointer;
 }
 
-section .h-three-title{
+section .hthree-title{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -86,7 +86,7 @@ section .h-three-title{
 
 }
 
-section .h-three-title-text{
+section .hthreetitle-text{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -97,7 +97,7 @@ section .h-three-title-text{
     background-color: #f4f4fd;
 }
 
-.section-three .h-two-title{
+.section-three .htwo-title{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -110,7 +110,7 @@ section .h-three-title-text{
     background-color: #FFFFFF;
 }
 
-.section-three .list-three>.h-three-title{
+.section-three .list-three>.hthree-title{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -125,7 +125,7 @@ section .h-three-title-text{
     color: #434455;
 }
 
-.h-two-portofilo{
+.htwo-portofilo{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -134,7 +134,7 @@ section .h-three-title-text{
     color: #2e2f42;
 }
 
-section .h-three-portofilo{
+section .hthree-portofilo{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
