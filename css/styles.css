@@ -110,7 +110,7 @@ section .hthreetitle-text{
     background-color: #FFFFFF;
 }
 
-.section-three .list-three .member{
+.worker_m{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -118,7 +118,7 @@ section .hthreetitle-text{
     color: #2e2f42;
 }
 
-.section-three .list-three .textm{
+.worker_job{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -154,7 +154,7 @@ section .text-portofilo{
 }
 
 .footer-span{
-    color: #2e2f42;
+    color: #F4F4FD;
 }
 
 .footer-text{
